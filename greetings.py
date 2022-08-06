@@ -2,5 +2,6 @@ greetings = [
     'Hello',
     'Ayoka',
     'Momo',
-    'Hej'
+    'Hej',
+    'Anitché'
 ]
